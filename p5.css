@@ -14,14 +14,14 @@ body #wrapper{
     position: fixed;
     top: 45%;
     left: 50%;
-    margin-top: -50px;
-    margin-left: -100px;
+    margin-top: -25px;
+    margin-left: -75px;
 }
 
 *:focus{
     outline:none;
 }
 
-h1 {
-    color: #a52a2a;
+h2 {
+    color: #FFFAFA;
 }
