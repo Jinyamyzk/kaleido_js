@@ -15,8 +15,8 @@ function setup() {
     myCanvas.parent("myContainer");
     smooth(2);
 
-    colorFrom = color(255,128,128);
-    colorTo   = color(100,100,255);
+    colorFrom = color(192,192,192);
+    colorTo   = color(128,128,128);
 }
 
 function draw() {
